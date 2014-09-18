@@ -11,10 +11,23 @@
 
 // count words
 
-var wordCount=function(words) {
-	console.log(words.split(' '));
-	return words.split(' ').length;
-};
+// var wordCount=function(words) {
+// 	console.log(words.split(' '));
+// 	return words.split(' ').length;
+// };
 
-console.log(wordCount('this is a test'));
+// console.log(wordCount('this is a test'));
 
+
+// primeTime
+
+// var primeTime=function(number) {
+// 	console.log(number.);
+// 	if {
+
+// 	}
+
+// 	else {
+		
+// 	}
+// }
